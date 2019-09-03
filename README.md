@@ -1,6 +1,7 @@
 # Post-hoc labeling of EEG for benchmarking of decoding methods
-This is the source code for the post-hoc labelled dataset generation framework (preprint available at http://arxiv.org/abs/1711.08208)
+This is the source code for the post-hoc labelled dataset generation framework:
 
+> Castaño-Candamil, Sebastián, Andreas Meinel, and Michael Tangermann. _"Post-hoc labeling of arbitrary M/EEG recordings for data-efficient evaluation of neural decoding methods."_ Frontiers in neuroinformatics 13 (2019).
 
 ## Getting started
 1. Run the download_dependecies.m script to download and configure the bbci_toolbox.
